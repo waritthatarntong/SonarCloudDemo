@@ -56,7 +56,7 @@ if __name__ == "__main__":
 	g.addEdge(2, 3)
 	g.addEdge(3, 3)
 
-	print("Following is Depth First Traversal (starting from vertex 2)")
+	print("Following is Depth First Traversal (starting from vertex 2))
 	
 	# Function call
 	g.DFS(2)
